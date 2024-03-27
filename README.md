@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chogland
+- 👋 Hi, I’m Charlie!
 - 👀 I’m interested in design systems and user interface development.
 - 🌱 I’m currently learning NX and StencilJS.
 - 💞️ I’m looking to collaborate on any challenging interface projects.

@@ -2,7 +2,7 @@
 - 👀 I’m interested in design systems and user interface development.
 - 🌱 I’m currently learning NX and StencilJS.
 - 💞️ I’m looking to collaborate on any challenging interface projects.
-- 📫 How to reach me: www.charliehogland.com or @chogland on twitter
+- 📫 How to reach me: www.charliehogland.dev or @chogland on twitter
 
 <!---
 chogland/chogland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
